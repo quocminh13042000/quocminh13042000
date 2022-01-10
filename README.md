@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Dương Nguyễn Minh Quốc .</h1>
-![image](https://user-images.githubusercontent.com/51302285/148805448-61df808d-7c81-4172-ad71-a38aca369e32.png)<br>
-![image](https://user-images.githubusercontent.com/51302285/148805499-55f9373e-6749-44f5-bc0f-31d02933cef1.png)<br>
+<img src="https://user-images.githubusercontent.com/51302285/148805448-61df808d-7c81-4172-ad71-a38aca369e32.png"><br>
+<img src="https://user-images.githubusercontent.com/51302285/148805499-55f9373e-6749-44f5-bc0f-31d02933cef1.png"><br>
 
 
 
