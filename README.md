@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Dương Nguyễn Minh Quốc .</h1>
 <img src="https://user-images.githubusercontent.com/51302285/148805818-84de7335-6d3f-4f98-a046-9c1dc978deec.png">
 <h3>Contact</h3>
-Email: <a href="mailto:quocduongnguyenminh@gmail.com">quocduongnguyenminh@gmail.com</a>
+Email: <a href="mailto:quocduongnguyenminh@gmail.com">quocduongnguyenminh@gmail.com</a> <br>
 Phone: <a href="tel:+8438345334">083 834 5334</a>
 
 
