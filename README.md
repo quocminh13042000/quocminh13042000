@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dương Nguyễn Minh Quốc .
-I'm developer.
+<h3>👋 Hi, I’m Dương Nguyễn Minh Quốc .</h3>
+<h5>I'm developer.</h5>
 
 <h1>Nice to meet you </h1>
 
