@@ -1,12 +1,16 @@
 <h1>👋 Hi, I’m Dương Nguyễn Minh Quốc .</h1>
-<h5>I'm developer.</h5>
+About me:
+I was born in 13/04/2000.
+I'm developer.
 
 <h3>Nice to meet you </h3>
+
 
 <!---
 quocminh13042000/quocminh13042000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <hr>
 CV _Backend Node Js
 
