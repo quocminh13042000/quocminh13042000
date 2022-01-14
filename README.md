@@ -22,4 +22,5 @@ CV _Backend Node Js
 <hr>
 CV _FrontEnd Angular
 
-[CV_DuongNguyenMinhQuoc_FrontEnd.pdf](https://github.com/quocminh13042000/quocminh13042000/files/7840376/CV_DuongNguyenMinhQuoc_FrontEnd.pdf)
+
+[CV_DuongNguyenMinhQuoc_FrontEnd.pdf](https://github.com/quocminh13042000/quocminh13042000/files/7867906/CV_DuongNguyenMinhQuoc_FrontEnd.pdf)
